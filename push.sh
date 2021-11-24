@@ -1,3 +1,3 @@
 git add .
-git commit -m "updated server.js"
+git commit -m "updated messages"
 git push
